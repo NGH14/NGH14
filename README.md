@@ -1,4 +1,6 @@
-# 👋 Hi there, Xin Chào
+# Hello, Xin Chào 😄!
+
+ 
 
 <!--
 **NGH14/NGH14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
