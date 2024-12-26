@@ -1,7 +1,7 @@
 # Hello, Xin Chào 😄!
+## "Developer/Friend with Bugs and BunBo"
 
-
-> Web Developer
+I'm a front-end web developer with API development capabilities. I build projects from concept to completion, handling planning, design, and implementation to deliver solutions for real-world problems using both code and no-code platforms.
 
 
  
