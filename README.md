@@ -5,6 +5,4 @@
 
 📚 Fresh graduate in Computer Science, BSc Hons at Greenwich University 
 
-🚀 Available for Work
-
 _Let Grow "Bit" Things_ 
